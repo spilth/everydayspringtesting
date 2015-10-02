@@ -1,1 +1,12 @@
+getting-started.md
+build-process.md
+spring-testing.md
+unit-tests.md
+controller-tests.md
+feature-testing.md
 mocking-stubbing.md
+testing-javascript.md
+frenemy-tests.md
+test-coverage.md
+speeding-up-tests.md
+continuous-integration.md
