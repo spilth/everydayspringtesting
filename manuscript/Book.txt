@@ -1,3 +1,4 @@
+setup.md
 getting-started.md
 build-process.md
 spring-testing.md
